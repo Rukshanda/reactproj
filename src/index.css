@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ans-div , .que-div{
+   
+  padding: 10px;
+  text-align: center;
+  padding: 50px;
+  border-radius: 4px;
+}
+.askIn{
+  border: 2px solid black;
+  padding: 2px 150px 2px 4px;
+  border-radius: 4px;
+  
+}
+.que-div button{
+  background-color: rgb(0, 107, 195);
+  padding: 3px  ;
+  border: 2px solid rgb(0, 62, 104);
+ 
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
